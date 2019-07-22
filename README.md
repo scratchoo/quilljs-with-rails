@@ -1,4 +1,4 @@
-# quilljs-with-rails
+# quilljs-with-rails (A guide only)
 
 ```
 <!-- Include stylesheet -->
@@ -45,3 +45,5 @@ form.onsubmit = function() {
 ```
 raw sanitize content, tags: %w(strong em u s a span p ol ul li br h1 h2 h3 pre blockquote), attributes: %w(href style class spellcheck)
 ```
+
+Source:  https://harlemsquirrel.github.io/jekyll/update/2016/12/11/rails-and-quill.html
